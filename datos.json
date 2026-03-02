@@ -1,0 +1,28 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "imagenUrl": "https://raw.githubusercontent.com/tu-usuario/imagenes-producto/main/imagenes/modelo1.jpg",
+      "titulo": "Producto Modelo 1",
+      "referencia": "M1-A",
+      "stock": 10,
+      "precio": 50.00
+    },
+    {
+      "id": 2,
+      "imagenUrl": "https://raw.githubusercontent.com/tu-usuario/imagenes-producto/main/imagenes/modelo2.jpg",
+      "titulo": "Producto Modelo 2",
+      "referencia": "M2-B",
+      "stock": 5,
+      "precio": 75.50
+    },
+    {
+      "id": 3,
+      "imagenUrl": "https://raw.githubusercontent.com/tu-usuario/imagenes-producto/main/imagenes/modelo3.jpg",
+      "titulo": "Producto Modelo 3",
+      "referencia": "M3-C",
+      "stock": 0,
+      "precio": 99.99
+    }
+  ]
+}
