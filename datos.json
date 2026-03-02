@@ -2,7 +2,7 @@
   "productos": [
     {
       "id": 1,
-      "imagenUrl": "https://raw.githubusercontent.com/tu-usuario/imagenes-producto/main/imagenes/modelo1.jpg",
+      "imagenUrl": "https://github.com/sebascatala/imagenes-producto/blob/main/Imagenes/modelo1.png",
       "titulo": "Producto Modelo 1",
       "referencia": "M1-A",
       "stock": 10,
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "imagenUrl": "https://raw.githubusercontent.com/tu-usuario/imagenes-producto/main/imagenes/modelo2.jpg",
+      "imagenUrl": "https://github.com/sebascatala/imagenes-producto/blob/main/Imagenes/modelo2.png",
       "titulo": "Producto Modelo 2",
       "referencia": "M2-B",
       "stock": 5,
@@ -18,11 +18,12 @@
     },
     {
       "id": 3,
-      "imagenUrl": "https://raw.githubusercontent.com/tu-usuario/imagenes-producto/main/imagenes/modelo3.jpg",
+      "imagenUrl": "https://github.com/sebascatala/imagenes-producto/blob/main/Imagenes/modelo3.png",
       "titulo": "Producto Modelo 3",
       "referencia": "M3-C",
       "stock": 0,
       "precio": 99.99
     }
   ]
+
 }
