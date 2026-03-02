@@ -2,7 +2,7 @@
   "productos": [
     {
       "id": 1,
-      "imagenUrl": "https://github.com/sebascatala/imagenes-producto/blob/main/Imagenes/modelo1.png",
+      "imagenUrl": "https://github.com/sebascatala/imagenes-producto/raw/main/Imagenes/modelo1.png",
       "titulo": "Modelo UNO",
       "referencia": "M1-A",
       "stock": 10,
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "imagenUrl": "https://github.com/sebascatala/imagenes-producto/blob/main/Imagenes/modelo2.png",
+      "imagenUrl": "https://github.com/sebascatala/imagenes-producto/raw/main/Imagenes/modelo2.png",
       "titulo": " Modelo DOS",
       "referencia": "M2-B",
       "stock": 5,
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "imagenUrl": "https://github.com/sebascatala/imagenes-producto/blob/main/Imagenes/modelo3.png",
+      "imagenUrl": "https://github.com/sebascatala/imagenes-producto/raw/main/Imagenes/modelo3.png",
       "titulo": "Modelo TRES",
       "referencia": "M3-C",
       "stock": 0,
@@ -27,6 +27,7 @@
   ]
 
 }
+
 
 
 
