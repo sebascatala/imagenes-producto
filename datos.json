@@ -3,7 +3,7 @@
     {
       "id": 1,
       "imagenUrl": "https://github.com/sebascatala/imagenes-producto/blob/main/Imagenes/modelo1.png",
-      "titulo": "Producto Modelo 1",
+      "titulo": "Producto Modelo 1 vacas comiendo pan",
       "referencia": "M1-A",
       "stock": 10,
       "precio": 50.00
@@ -27,3 +27,4 @@
   ]
 
 }
+
